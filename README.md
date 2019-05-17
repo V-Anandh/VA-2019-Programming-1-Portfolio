@@ -4,15 +4,15 @@
 
 
 
-## Object oriented calculator
-### Description: Use object oriented programming to make a functioning calculator
+## Object Oriented Calculator
+### Description: Calculator that is designed based off of a gaming controller.
 ### GUIs
 
 
 
 
 ## Screensaver
-### Description: A screensaver
+### Description: A 2-D recreation of the Windows 10 screensaver pipes
 ### GUIs
 
 
@@ -25,12 +25,12 @@
 
 
 ## Etch-A-Sketch
-### Description: Use the arrow keys to move a line across the screen and draw pictures.
+### Description: Based on the famous toy in which you use the arrow keys to move a line across the screen and draw pictures.
 ### GUIs
 
 
 
 
-## Make-A-Face
-### Description: Randomly generates a face.
+## Space Shooter Game
+### Description: Spaceship shooter game with asteroids.
 ### GUIs
