@@ -1,6 +1,7 @@
 # Welcome to Vivek Anandh's Programming Portfolio
 ### Programming 1 2018-2019
 ### Email: ViveAnan9613@GraniteSD.org
+### Certifications Earned This Year: Java, C#, C++, Python, Visual Basic
 
 
 
