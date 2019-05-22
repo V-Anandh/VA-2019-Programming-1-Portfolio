@@ -30,7 +30,7 @@
 ## Object Oriented Calculator
 ### Description: Calculator that is designed based off of a gaming controller.
 ### GUIs
-![Calculator01](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Calc/Calc.png)
+![Calculator01](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Calc/Calc.png?raw=true)
 
 [Source Code For Calculator](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Calc/Calculator.zip)
 
@@ -45,7 +45,7 @@
 ## Screensaver
 ### Description: A 2-D recreation of the Windows 10 screensaver pipes
 ### GUIs
-![Screensaver01](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/ScreenSaver/ScreenSaver.png)
+![Screensaver01](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/ScreenSaver/ScreenSaver.png?raw=true)
 
 [Source Code For Screensaver](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/ScreenSaver/ScreenSaver.zip)
 
@@ -62,7 +62,7 @@
 ### GUIs
 
 
-![Cars01](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Cars/Cars.png)
+![Cars01](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Cars/Cars.png?raw=true)
 
 [Source Code For Cars](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Cars/Cars.zip)
 
@@ -79,7 +79,7 @@
 ### GUIs
 
 
-![Sketch](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Etch-A-Sketch/Etch-a-Sketch.png)
+![Sketch](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Etch-A-Sketch/Etch-a-Sketch.png?raw=true)
 
 [Source Code For EtchASketch](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Etch-A-Sketch/Etch_A_Sketch.zip)
 
@@ -93,11 +93,11 @@
 ## Space Shooter Game
 ### Description: Spaceship shooter game with asteroids.
 ### GUIs
-![Space Game Start Screen](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/SpaceShooterGame/Screen%20Shot%202019-05-22%20at%208.23.01%20AM.png)
+![Space Game Start Screen](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/SpaceShooterGame/Screen%20Shot%202019-05-22%20at%208.23.01%20AM.png?raw=true)
 
-![Space Game Levels](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/SpaceShooterGame/SpaceShooter.png)
+![Space Game Levels](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/SpaceShooterGame/SpaceShooter.png?raw=true)
 
-![Space Game Game Over Screen](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/SpaceShooterGame/Screen%20Shot%202019-05-22%20at%208.25.26%20AM.png)
+![Space Game Game Over Screen](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/SpaceShooterGame/Screen%20Shot%202019-05-22%20at%208.25.26%20AM.png?raw=true)
 
 [Source Code For Space Game](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/SpaceShooterGame/SpaceShooterGame.zip)
 
