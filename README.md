@@ -14,20 +14,6 @@
 **Recreated by Vivek Anandh, Cristina Dong, Tyler Gale, Dylan Anderson, Izaak Tayler, and Alan Mo**
 
 **Programmed using the Processing 3 IDE**
-
-## Features
-**Many Power Ups Such As:**
-
-More Balls
-
-Longer Paddle
-
-Lasers
-
-Sticky Paddle
-
-**We Are Making A Two Player Option Too**
-
  
 ## Controls
 **Use mouse to move the paddle left and right**
