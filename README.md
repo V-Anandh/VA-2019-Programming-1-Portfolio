@@ -27,14 +27,14 @@
 [Link To Arkanoid Repository](https://github.com/SkylineHigh/A4Java/tree/master/Arkanoid)
 
 # **Educational Tetris**
-**Recreation of Tetris with added the feature of algebra to move*
+**Recreation of Tetris with added the feature of algebra to move**
 
 **Programmed by Vivek Anandh**
 
 **Programmed using the Processing 3 IDE**
  
 ## Controls
-**Solve for L on the left equation to move left
+**Solve for L on the left equation to move left**
 
  **Solve for R on the left equation to move right**
  
