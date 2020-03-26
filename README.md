@@ -26,6 +26,33 @@
 
 [Link To Arkanoid Repository](https://github.com/SkylineHigh/A4Java/tree/master/Arkanoid)
 
+# **Educational Tetris**
+**Recreation of Tetris with added the feature of algebra to move*
+
+**Programmed by Vivek Anandh**
+
+**Programmed using the Processing 3 IDE**
+ 
+## Controls
+**Solve for L on the left equation to move left
+ Solve for R on the left equation to move right
+ DOWN or "+" or "=" to go down one block
+ UP or "/" or "-" to flip
+ SPACE - hard drop (drop immediately)**
+ ## GUIS
+ ![Start](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/ScreenCaptures/Screen%20Shot%202020-03-25%20at%206.41.27%20PM.png)
+ 
+![Play](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/ScreenCaptures/Screen%20Shot%202020-03-25%20at%206.41.10%20PM.png)
+
+![EndScreeen](ghttps://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/ScreenCaptures/Screen%20Shot%202020-03-25%20at%206.41.19%20PM.png)
+
+[Source Code For Educational Tetris](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/Educational_Tetris.zip)
+
+[Downloadable App for windows 64](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/application.windows64.zip)
+
+[Downloadable App for macosx](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/application.macosx.zip)
+
+[Downloadable App for linux 64](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/application.linux64.zip)
 
 ## Object Oriented Calculator
 ### Description: Calculator that is designed based off of a gaming controller.
