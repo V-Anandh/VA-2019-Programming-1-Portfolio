@@ -35,16 +35,20 @@
  
 ## Controls
 **Solve for L on the left equation to move left
- Solve for R on the left equation to move right
- DOWN or "+" or "=" to go down one block
- UP or "/" or "-" to flip
- SPACE - hard drop (drop immediately)**
+
+ **Solve for R on the left equation to move right**
+ 
+**DOWN or "+" or "=" to go down one block**
+ 
+ **UP or "/" or "-" to flip**
+ 
+ **SPACE - hard drop (drop immediately)**
  ## GUIS
  ![Start](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/ScreenCaptures/Screen%20Shot%202020-03-25%20at%206.41.27%20PM.png)
  
 ![Play](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/ScreenCaptures/Screen%20Shot%202020-03-25%20at%206.41.10%20PM.png)
 
-![EndScreeen](ghttps://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/ScreenCaptures/Screen%20Shot%202020-03-25%20at%206.41.19%20PM.png)
+![EndScreeen](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/ScreenCaptures/Screen%20Shot%202020-03-25%20at%206.41.19%20PM.png)
 
 [Source Code For Educational Tetris](https://github.com/V-Anandh/VA-2019-Programming-1-Portfolio/blob/master/Educational_Tetris/Educational_Tetris.zip)
 
